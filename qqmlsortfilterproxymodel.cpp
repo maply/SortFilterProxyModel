@@ -1,7 +1,7 @@
 #include "qqmlsortfilterproxymodel.h"
 #include <QtQml>
 #include <QDebug>
-#include "lib/qt-qml-models/QQmlObjectListModel.h"
+#include "../../../qt-qml-models/QQmlObjectListModel.h"
 
 int QQmlSortFilterProxyModel::count() const
 {
