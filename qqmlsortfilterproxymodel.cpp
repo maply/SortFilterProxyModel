@@ -1,7 +1,7 @@
 #include "qqmlsortfilterproxymodel.h"
 #include <QtQml>
 #include <QDebug>
-#include "../eu/maply/geoapp/contentmodels/src/lib/qt-qml-models/QQmlObjectListModel.h"
+#include "lib/eu/maply/geoapp/contentmodels/src/lib/qt-qml-models/QQmlObjectListModel.h"
 
 int QQmlSortFilterProxyModel::count() const
 {
